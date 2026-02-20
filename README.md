@@ -50,3 +50,6 @@ The app reads a simple **Comma-Separated** text file.
 
 * **Formatting Errors?**
   Ensure your CSV file uses commas (`,`) and not semicolons (`;`). Also, ensure the date format is exactly `DD-MM` (e.g., 20-02).
+
+### 📄 Template File
+You can download a sample [Data.csv](./Data.csv) to use as a starting point.
