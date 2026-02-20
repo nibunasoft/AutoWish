@@ -37,6 +37,21 @@ The app reads a simple **Comma-Separated** text file.
 20-02, Rohit, Wedding Anniversary
 21-02, Virat, Birthday
 
+## 🛠️ 3. How to Use
+
+### Step 1: Import your list
+Open the app and tap the **"Select CSV File"** button. Locate and select your `.csv` file. The app securely copies this list to its internal memory so you don't need to keep the original file on your phone.
+
+### Step 2: Getting Notified
+* **Hourly Checks:** The app automatically runs a check every hour in the background. If a name in your list matches today's date, you will receive a notification.
+* **Instant Test:** To verify everything is working, ensure your file has an entry for today's date and click the **"Check Now"** (or Test) button in the app.
+
+### Step 3: Sending the Wish
+1. When the notification appears, **tap it**.
+2. **WhatsApp** will open automatically.
+3. Select the person you want to message from your contact list.
+4. The message *"Happy [Event] [Name]!"* will be **pre-filled**. Just hit **Send**!
+
 ## ❓ Troubleshooting
 
 * **No Alerts?**
